@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Julian</h1>
 <h3 align="center">Desarrollador Frontend con base en Buenos Aires, Argentina</h3>
 
+- 💻 Actualmente trabajo como Desarrollador Frontend Freelance
+- 🧠 En la experiencia que tengo en el rol, trabajé con React, TypeScript, Tailwind CSS y también participé en tareas backend usando Node.js
+- 🎓 Estudie Desarrollo de Software en la UTN (Universidad Tecnológica Nacional)
 - 📁 proyectos en los que trabaje portfolio: (https://julianvidela.vercel.app/)
-
 - 📫 Contacto: **julianvyd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
